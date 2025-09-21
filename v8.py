@@ -30,11 +30,11 @@ from telegram.error import TelegramError, BadRequest, Forbidden
 # --- CONFIGURATION ---
 # IMPORTANT: Replace these values with your actual data.
 # Get your Bot Token from BotFather on Telegram.
-BOT_TOKEN = "7752800446:AAFyI6lZRXF0BM07O-y0oNYaf7s-hd8PgrA"
+BOT_TOKEN = "A"
 # This is your personal Telegram User ID. You can get it from bots like @userinfobot.
-ADMIN_ID = 7747045013  # Replace with your Telegram User ID
+ADMIN_ID = 774713  # Replace with your Telegram User ID
 # The ID of your private channel. Get it from @userinfobot (forward a message from the channel).
-CHANNEL_ID = -1003094091326
+CHANNEL_ID = -1003094
 
   # Replace with your Channel ID (must start with -100)
 # --- END CONFIGURATION ---
@@ -1560,3 +1560,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
